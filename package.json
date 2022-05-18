@@ -1,0 +1,29 @@
+{
+  "name": "typescript_libraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimassoqueto/typescript_libraries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimassoqueto/typescript_libraries/issues"
+  },
+  "homepage": "https://github.com/guimassoqueto/typescript_libraries#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "lodash": "^4.17.21",
+    "reflect-metadata": "^0.1.13"
+  }
+}
